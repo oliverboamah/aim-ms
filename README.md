@@ -44,8 +44,8 @@ Add Buyer            |  FAQs Page
 
 ## Technologies
 * PHP
-* JavaScript
 * CodeIgniter
+* JavaScript
+* JQuery
 * HTML
 * CSS
-* JQuery
