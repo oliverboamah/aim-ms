@@ -4,27 +4,27 @@ A full blown web management system to track, manage and analyze the operations o
 ## Screenshots
 Login Page            |  Admin Dashboard
 :-------------------------:|:-------------------------:
-![News Tab](https://github.com/codingoliver/sportega/blob/master/screenshots/news_tab.png) | ![Video Tab](https://github.com/codingoliver/sportega/blob/master/screenshots/video_tab.png) 
+![Login Page](https://github.com/codingoliver/aim-ms/blob/master/screenshots/login%20page.JPG) | ![Admin Dashboard](https://github.com/codingoliver/aim-ms/blob/master/screenshots/dashboard.JPG) 
 
 Staff Page            |  Add Staff
 :-------------------------:|:-------------------------:
-![News Tab](https://github.com/codingoliver/sportega/blob/master/screenshots/photo_tab.png) | ![Navigation Drawer](https://github.com/codingoliver/sportega/blob/master/screenshots/nav_drawer.png) 
+![Staff Page](https://github.com/codingoliver/aim-ms/blob/master/screenshots/staff%20page.JPG) | ![Add Staff](https://github.com/codingoliver/aim-ms/blob/master/screenshots/add%20staff.JPG) 
 
 Accounts Section            |  Transport Activities List
 :-------------------------:|:-------------------------:
-![NewsItem Detail Page](https://github.com/codingoliver/sportega/blob/master/screenshots/news_detail.png) | ![Video Page](https://github.com/codingoliver/sportega/blob/master/screenshots/video_detail.png) 
+![Accounts Section](https://github.com/codingoliver/aim-ms/blob/master/screenshots/accounting.JPG) | ![Transport Activities List](https://github.com/codingoliver/aim-ms/blob/master/screenshots/transport.JPG) 
 
 Forestry Activities List           |  Sawmills List
 :-------------------------:|:-------------------------:
-![Share News](https://github.com/codingoliver/sportega/blob/master/screenshots/share_news.png) | ![Save Favorite News](https://github.com/codingoliver/sportega/blob/master/screenshots/save_news.png) 
+![Forestry Activities List](https://github.com/codingoliver/aim-ms/blob/master/screenshots/forestry%20activity.JPG) | ![Sawmills List](https://github.com/codingoliver/aim-ms/blob/master/screenshots/sawmills.JPG) 
 
 Logs List             |  Logs Prices
 :-------------------------:|:-------------------------:
-![Share News](https://github.com/codingoliver/sportega/blob/master/screenshots/share_news.png) | ![Save Favorite News](https://github.com/codingoliver/sportega/blob/master/screenshots/save_news.png) 
+![Logs List](https://github.com/codingoliver/aim-ms/blob/master/screenshots/logs.JPG) | ![Logs Prices](https://github.com/codingoliver/aim-ms/blob/master/screenshots/log%20prices.JPG) 
 
 Add Buyer            |  FAQs Page
 :-------------------------:|:-------------------------:
-![Share News](https://github.com/codingoliver/sportega/blob/master/screenshots/share_news.png) | ![Save Favorite News](https://github.com/codingoliver/sportega/blob/master/screenshots/save_news.png) 
+![Add Buyer](https://github.com/codingoliver/aim-ms/blob/master/screenshots/buyers.JPG) | ![FAQs Page](https://github.com/codingoliver/aim-ms/blob/master/screenshots/faq.JPG) 
 
 ## Features
 * Administrator Dashboard
